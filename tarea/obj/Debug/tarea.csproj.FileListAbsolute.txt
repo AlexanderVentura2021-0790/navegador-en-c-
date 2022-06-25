@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\diseño centrado\navegador2.0\tarea\bin\Debug\tarea.exe.config
+C:\Users\User\Desktop\diseño centrado\navegador2.0\tarea\bin\Debug\tarea.exe
+C:\Users\User\Desktop\diseño centrado\navegador2.0\tarea\bin\Debug\tarea.pdb
+C:\Users\User\Desktop\diseño centrado\navegador2.0\tarea\obj\Debug\tarea.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\diseño centrado\navegador2.0\tarea\obj\Debug\tarea.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\diseño centrado\navegador2.0\tarea\obj\Debug\tarea.Form1.resources
+C:\Users\User\Desktop\diseño centrado\navegador2.0\tarea\obj\Debug\tarea.Properties.Resources.resources
+C:\Users\User\Desktop\diseño centrado\navegador2.0\tarea\obj\Debug\tarea.csproj.GenerateResource.cache
+C:\Users\User\Desktop\diseño centrado\navegador2.0\tarea\obj\Debug\tarea.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\diseño centrado\navegador2.0\tarea\obj\Debug\tarea.exe
+C:\Users\User\Desktop\diseño centrado\navegador2.0\tarea\obj\Debug\tarea.pdb
